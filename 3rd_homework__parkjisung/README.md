@@ -1,5 +1,5 @@
 # PARD Web 
-# FaceBook Clone Codeing(Only-Front)
+# FaceBook Clone Coding(Only-Front)
 ### Using MUI (React UI tools) https://mui.com/
 
 
