@@ -15,14 +15,14 @@ export default function Login() {
                 backgroundSize: "cover",
                 backgroundColor: "#F5F5F5",
                 gap: 5,
-                overflowX: "hidden", // 중요 ㅈㄴ 힘들게 찾음 시바 지금 아침 6시
+                overflowX: "hidden", // 중요 
             }}
         >
 
             <Box
                 position={"absolute"}
                 left="10%"
-                top="45%"
+                top="40%"
             >
                 <LoginText />
             </Box>
