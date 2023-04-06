@@ -63,7 +63,7 @@ const StyledInputBase = styled(InputBase)(({ theme }) => ({
 export default function MyAppBar() {
 
   const [buttonStates, setButtonStates] = useState({
-    home: false,
+    home: true,
     people: false,
     game: false,
   });
